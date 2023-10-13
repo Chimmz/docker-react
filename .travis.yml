@@ -1,3 +1,7 @@
+language: node_js
+node_js:
+  - 10
+
 # Need super user permissions to execute this build
 sudo: required
 
